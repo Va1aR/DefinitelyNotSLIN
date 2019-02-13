@@ -2,6 +2,9 @@
 
 # Chapter 0
 
+## Set Sate and Time
+- `Set date and time ( date -s "19 APR 2012 11:14:00" )`
+
 ## Hostname
 
 - `hostnamectl set-hostname <hostname>` to change hostname
